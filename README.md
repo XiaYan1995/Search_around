@@ -10,7 +10,7 @@
 	<br>
 3、使用帮助：
 <br>
-	&nbsp;&nbsp;&nbsp;&nbsp;lib文件夹下包含一些配置文件和库函数，具体如下：配置文件config.js、回复微信搜索结果模板receivedLocation.js、回复微信文本信息模板replyText.js、调用百度地图接口获取周边信息setLocation.js。用户只需执行主文件夹下的index.js就可以启动应用。
+	&nbsp;&nbsp;&nbsp;&nbsp;lib文件夹下包含一些配置文件和库函数，具体如下：配置文件config.js、回复微信搜索结果模板receiveLocation.js、回复微信文本信息模板replyText.js、调用百度地图接口获取周边信息setLocation.js。用户只需执行主文件夹下的index.js就可以启动应用。
 	<br>
 4、开发人员信息：
 <br>
